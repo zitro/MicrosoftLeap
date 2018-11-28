@@ -2,7 +2,7 @@
 
 namespace Inheritance_and_Polymorphism
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
